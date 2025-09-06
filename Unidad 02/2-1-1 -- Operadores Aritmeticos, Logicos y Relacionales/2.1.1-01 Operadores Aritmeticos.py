@@ -1,7 +1,7 @@
 # Operados aritmeticos
 a = 5
 b = 10
-c = 20
+c = 25
 
 suma = a + b + c
 resta = a - b - c
